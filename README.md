@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with open AI tools.
 - 💬 Ask me about any javascript related stuffs.
 - 📫 How to reach me: email: yared241993@gmail.com and my whatsapp/telegram number is: +251932380202
-- 😄 Pronouns: His/Him
+- 😄 Pronouns: He/Him
