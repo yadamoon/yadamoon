@@ -5,7 +5,6 @@
 <h3 align="center">Passionate Fullstack developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadamoon&label=Profile%20views&color=0e75b6&style=flat" alt="yadamoon" /> </p>
 
 - 🔭 I’m currently working on **online shopping site and I use MERN Stack**
@@ -25,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yared chereka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yared chereka" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/yared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yared" height="30" width="40" /></a>
 <a href="https://fb.com/chereka yared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chereka yared" height="30" width="40" /></a>
 <a href="https://instagram.com/it's yared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it's yared" height="30" width="40" /></a>
 </p>
