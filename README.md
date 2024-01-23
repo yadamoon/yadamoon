@@ -16,7 +16,8 @@
 
 - 🤝 I’m looking for help with **open AI tools**
 
-- 💬 Ask me about **Java and any javascript related stuffs.**
+- 💬 Ask me about my favorite tools and libraries for building React applications, such as Redux Toolkit, React Router, Tailwind CSS, Framer Motion, React Query, Socket.IO, Material Tailwind, GraphQL, Axios, and Nginx. I'm happy to share my experience with these technologies and how they can help you build beautiful, responsive, and performant web applications. Let's chat!
+**
 
 - 📫 How to reach me **email: yared241993@gmail.com and my whatsapp/telegram number is: +251932380202**
 
