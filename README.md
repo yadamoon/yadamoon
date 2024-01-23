@@ -8,18 +8,18 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadamoon&label=Profile%20views&color=0e75b6&style=flat" alt="yadamoon" /> </p>
 
-- 🔭 I’m currently working on **online shopping site and I use MERN Stack**
+- 🔭 I’m currently working on **online shopping site and I use MERN Stack
 
-- 🌱 I’m currently learning **Next.js and Typescript , Reactnative**
+- 🌱 I’m currently learning **Next.js and Typescript , Reactnative
 
-- 👯 I’m looking to collaborate on **on AI related open source projects**
+- 👯 I’m looking to collaborate on **on AI related open source projects
 
-- 🤝 I’m looking for help with **open AI tools**
+- 🤝 I’m looking for help with **open AI tools
 
 - 💬 Ask me about my favorite tools and libraries for building React applications, such as Redux Toolkit, React Router, Tailwind CSS, Framer Motion, React Query, Socket.IO, Material Tailwind, GraphQL, Axios, and Nginx. I'm happy to share my experience with these technologies and how they can help you build beautiful, responsive, and performant web applications. Let's chat!
-**
 
-- 📫 How to reach me **email: yared241993@gmail.com and my whatsapp/telegram number is: +251932380202**
+
+- 📫 How to reach me **email: yared241993@gmail.com and my whatsapp/telegram number is: +251932380202
 
 - ⚡ Fun fact **I am Funny**
 
