@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning Next.js, TypeScript, and React Native
 - 👯 I’m looking to collaborate on AI-related open-source projects
 - 🤝 I’m looking for help with OpenAI tools
-- 💬 Ask me about my favorite tools and libraries for building React applications, such as Redux Toolkit, React Router, Tailwind CSS, Framer Motion, React Query, Socket.IO, Material Tailwind, GraphQL, Axios, and Nginx. I'm happy to share my experience with these technologies and how they can help you build beautiful, responsive, and performant web applications. Let's chat!
+- 💬 Ask me about my favorite tools and libraries for building fullstack applications, such as Redux Toolkit, React Router, Tailwind CSS, Framer Motion, React Query, Socket.IO, Material Tailwind, GraphQL, Axios, Nginx, NestJS, .NET, RabbitMQ, NATS, microservices, relational databases (e.g., PostgreSQL, MySQL, MSSQL), and non-relational databases (e.g., MongoDB, Firebase). I'm happy to share my experience with these technologies and how they can help you build beautiful, responsive, and performant web applications. Let's chat!
+
 - 📫 How to reach me: **email** yared241993@gmail.com, **WhatsApp** +251932380202, **Telegram** @Chereka_Yared
 - ⚡ Fun fact: **I am funny**
 
