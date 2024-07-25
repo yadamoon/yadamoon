@@ -4,8 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadamoon&label=Profile%20views&color=0e75b6&style=flat" alt="yadamoon" /> </p>
 
-- 🔭 I’m currently working on an online shopping site using the MERN Stack
-- 🌱 I’m currently learning Next.js, TypeScript, and React Native
+- 🔭 I’m currently working on the server side (backend) of a Restaurant Management System using NestJS.
+- 🌱 I’m currently learning Flutter and Python.
 - 👯 I’m looking to collaborate on AI-related open-source projects
 - 🤝 I’m looking for help with OpenAI tools
 - 💬 Ask me about my favorite tools and libraries for building fullstack applications, such as Redux Toolkit, React Router, Tailwind CSS, Framer Motion, React Query, Socket.IO, Material Tailwind, GraphQL, Axios, Nginx, NestJS, .NET, RabbitMQ, NATS, microservices, relational databases (e.g., PostgreSQL, MySQL, MSSQL), and non-relational databases (e.g., MongoDB, Firebase). I'm happy to share my experience with these technologies and how they can help you build beautiful, responsive, and performant web applications. Let's chat!
