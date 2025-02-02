@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yared Teklehaymanot</h1>
-<h3 align="center">Full Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer| Full Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -33,8 +33,6 @@ I am a highly skilled **Full Stack Developer** with expertise in **frontend, bac
 - **Frameworks & Tools**:  
   - **Node.js** (NestJS, Express.js)  
   - **Spring Boot** (Java)  
-  - **.NET Core** (C#)  
-  - **FastAPI** (Python)  
 
 - **Authentication & Security**: JWT, Clerk, OAuth, better-auth  
 - **Logging & Monitoring**: Log4j, Winston  
@@ -46,8 +44,8 @@ I am a highly skilled **Full Stack Developer** with expertise in **frontend, bac
 
 #### **🔗 APIs & Microservices**  
 - **RESTful APIs, GraphQL, WebSockets (Socket.IO)**  
-- **Event-Driven Architecture**: RabbitMQ, Kafka  
-
+- **Event-Driven Architecture**: RabbitMQ, Kafka
+- **Testing**: load/stress testing with k6 testing,Jest 
 #### **⚡ DevOps & Deployment**  
 - **Containerization**: Docker  
 - **CI/CD & Hosting**: Render, Vercel  
@@ -61,25 +59,22 @@ I am a highly skilled **Full Stack Developer** with expertise in **frontend, bac
 #### **🩺 Clinic Smart Care System (Folocare)**  
 - Developed a **full-fledged healthcare management system**  
 - **Built with**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- Features: Patient management, appointments, lab orders, pharmacy, inventory  
+- Features: Patient management, Appointments,Payment integration,Notifications, Lab orders, Pharmacy, Inventory and Branch management
 
 #### **🍰 Cafe & Cake Ordering System**  
 - Built a **real-time ordering system** with admin dashboard  
 - **Built with**: Angular, Tailwind CSS, NgRx, Node.js, Express, MongoDB  
-- Features: Order tracking, menu management, user authentication  
+- Features: Order tracking,Payment integration,Notifications(email integration), Menu management, User authentication  
 
-#### **<p style="margin-top:50px; vertical-align:center; position:relative"><img src="https://github.com/yadamoon/yadamoon/blob/main/image.png" width="40" style="position:absolute; top:40px">Zocdoc Clone</p>**  
+#### **ⓩ Zocdoc Clone**  
 - Created a **fully functional and responsive Zocdoc.com clone**  
 - **Built with**: Angular, Tailwind CSS, NgRx  
-- Features: Appointment booking, provider search, user profile management
-
-
-  
+- Features: Appointment booking, Provider search, user profile management
 
 #### **🍽️ Restaurant Management System**  
 - Developed a **scalable restaurant management system**  
 - **Built with**: React.js, NestJS, PostgreSQL  
-- Features: Role-based authentication, table reservations, online ordering, kitchen display system  
+- Features: Role-based authentication,Payment integration,Notifications(email integration),Table reservations, Online ordering, Kitchen display system  
 
 ---
 
@@ -87,9 +82,6 @@ I am a highly skilled **Full Stack Developer** with expertise in **frontend, bac
 <p align="left">
   <a href="https://linkedin.com/in/yared-teklehaymanot" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/yadamoon" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40"/>
   </a>
   <a href="https://fb.com/chereka-yared" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40"/>
