@@ -68,10 +68,13 @@ I am a highly skilled **Full Stack Developer** with expertise in **frontend, bac
 - **Built with**: Angular, Tailwind CSS, NgRx, Node.js, Express, MongoDB  
 - Features: Order tracking, menu management, user authentication  
 
-#### **📅 Zocdoc Clone**  
+#### **<p style="margin-top:50px; vertical-align:center; position:relative"><img src="https://github.com/yadamoon/yadamoon/blob/main/image.png" width="40" style="position:absolute; top:40px">Zocdoc Clone</p>**  
 - Created a **fully functional and responsive Zocdoc.com clone**  
 - **Built with**: Angular, Tailwind CSS, NgRx  
-- Features: Appointment booking, provider search, user profile management  
+- Features: Appointment booking, provider search, user profile management
+
+
+  
 
 #### **🍽️ Restaurant Management System**  
 - Developed a **scalable restaurant management system**  
