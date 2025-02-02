@@ -97,8 +97,8 @@ I am a highly skilled **Full Stack Developer** with expertise in **frontend, bac
 
 ---
 
-### 📜 My Resume  
-📄 **[View CV](https://your-cv-link-here.com)** (Upload on Google Drive or GitHub)  
+### 📜 My Portfolio  
+📄 **[Portfolio](https://yared-portfolio-phi.vercel.app/)**
 
 💼 **Currently Open to New Opportunities!**  
 I’m looking for **Full Stack Developer** roles—let’s connect and build something amazing together! 🚀  
