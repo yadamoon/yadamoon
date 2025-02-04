@@ -10,7 +10,7 @@
 ### 🔥 About Me  
 I am a highly skilled **Full Stack Developer** with expertise in **frontend, backend, and database technologies**. My passion lies in **building scalable, high-performance applications** and collaborating on **open-source projects**.  
 
-- 💻 Currently working as a **Full Stack Developer at [BytePulse](https://bytepulse.et)**  
+- 💻 Currently working as a **Full Stack Developer **  
 - 🛠️ Developing **E-Commerce**  
 - 🌱 Currently learning **Flutter** for cross-platform mobile apps and **Python** for AI-driven applications  
 - 👯 Looking to collaborate on **AI-driven open-source projects**  
